@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(221, 177, 32);
+    font-family: sans-serif;
+}
+
+.nav a{
+    float: right;
+    padding: 20px;
+    color: black;
+    font-weight: bolder;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.aboutushome{
+    border-radius: 10px;
+    background-color: rgb(136, 45, 45);
+    border-width: 100px;
+    margin-left: 69px;
+    margin-right: 69px;
+    margin-top: 69px;
+    padding: 10px;
+}
+
+.aboutushome h1{
+    margin-left: 800px;
+    font-weight: bolder;
+    font-family: "Oswald";
+    color: rgb(184, 157, 41);
+}
+
+.aboutushome p{
+    margin-left: 600px;
+}
