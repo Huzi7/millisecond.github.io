@@ -1,15 +1,19 @@
 body{
-    background-color: rgb(221, 177, 32);
+    background-color: rgb(31, 31, 31);
     font-family: sans-serif;
 }
 
 .nav a{
     float: right;
     padding: 20px;
-    color: black;
+    color: rgb(226, 226, 226);
     font-weight: bolder;
     text-decoration: none;
     font-size: 20px;
+}
+
+.maintitle{
+    color: rgb(226, 226, 226);
 }
 
 .aboutushome{
@@ -30,5 +34,19 @@ body{
 }
 
 .aboutushome p{
+    margin-left: 565px;
+}
+
+.logoinmiddle{
     margin-left: 600px;
+    margin-top: 20px;
+    width: 700px;
+    height: 500px;
+    border-radius: 10px;
+    background-color: beige;
+}
+
+.logoinmiddle img{
+    margin-left: 20px;
+    margin-top: 30px;
 }
